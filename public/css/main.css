@@ -1,0 +1,77 @@
+body{
+    
+    
+    background: url('../bg.jpg') no-repeat fixed;
+    background-size: cover;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+.main-section{
+    margin: auto;
+    text-align: initial;
+    width: 70vh;
+    background:white;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-radius: 8px; 
+    margin-top: 10px;
+    text-align: center;
+    opacity: 0.9;
+    
+    
+}
+
+.main-menu{
+    
+    width: 70vh;
+    background: white;
+    margin: auto;
+    text-align: initial;
+    /*border-radius: 8px;*/  
+    padding: 0;
+   
+   
+}
+
+.main-menu ul{
+    
+    list-style: none;
+    margin:0;
+    padding:0;
+    
+}
+
+.main-menu ul li{
+    
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+    
+    margin: 0;
+    
+}
+
+.main-menu ul li.left {
+    
+    float: left;
+    width: 49%;
+  
+    
+    
+}
+
+
+.main-menu ul li:hover{
+    
+    opacity: .7;
+    
+    
+    
+}
